@@ -1,0 +1,15 @@
+OTP
+Parcurg textul si cu fiecare byte din text fac xor cu byte ul din cheie.
+Si scriu rezultatul.
+
+Caesar
+Selectex din text doar caracterele mici sau mari si doar asupra lor aplic
+transformarea
+
+Vigenere
+La pasul 1 replic cheia ca sa ajung la lungimea textului selectand doar caractere
+alfabetice Lower sau Upper case. La pasul 2 aplic transformarea
+
+Mystrstr
+La implementarea acestui exercitiu am folosit stiva. Daca nu sa gasit nici
+o corespondenta se intoarce lungimea stringului +1.
